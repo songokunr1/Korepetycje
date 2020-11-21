@@ -1,0 +1,20 @@
+reversed word 
+ sentence from the end
+ zamiana na małe literki
+ na duże
+ 
+ 
+ sum of array 
+ we have array, for ex [1,2,3,4] and we want to sum of all numbers/ b without lat one
+ c) we want to add all numbers without 2
+ D) we want to add all numbers without evens
+ e) we want to add all suers of even numbers and not even only add
+ f) prezent output in the format (wynikiem obliczenia jest: tutaj_wynik)
+ g) obliczenie wartości średniej
+ 
+ 
+ 
+ 
+ 
+ 
+ 
