@@ -43,3 +43,4 @@ def zadanie3():
     b_possible = [randint(int(pow(10, 7.4) + 1), int(pow(10, 8.5))) for i in range(10)]
     math.copysign(1, b_possible[0])
 
+zadanie2()
